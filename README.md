@@ -1,2 +1,2 @@
 # Notes
-NodeJS Backend for a notes taking app. Provides CRUD functionalities and CLI interactions.
+NodeJS API for a notes taking app. Provides CRUD functionalities and CLI interactions.
